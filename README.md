@@ -1,4 +1,4 @@
-# Duarte Cruz - Bsc in Computer Science and Engineering
+# Duarte Cruz - Product Engineer @ Bounce
 
 <div align="center">
   <a href="https://github.com/DuarteCruz31">
