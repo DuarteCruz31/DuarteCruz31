@@ -1,4 +1,4 @@
-# Duarte Cruz - Product Engineer @ Bounce
+# Duarte Cruz - Product Engineer
 
 <div align="center">
   <a href="https://github.com/DuarteCruz31">
